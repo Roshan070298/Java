@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;config.xml&apos; to &apos;springcore/src/main/java/com.springcore.spel&apos;&#x0D;&#x0A;- Original project: &apos;springcore&apos;&#x0D;&#x0A;- Destination element: &apos;springcore/src/main/java/com.springcore.spel&apos;&#x0D;&#x0A;- Original element: &apos;config.xml&apos;" description="Copy file" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springcore.spel" element1="src/main/java/config.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1659350555032" units="0" version="1.0"/>
+</session>

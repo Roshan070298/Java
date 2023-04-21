@@ -1,0 +1,14 @@
+package com.spring.orm.entities;
+
+import javax.persistence.Table;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+@Table(name="student_details")
+public class Student {
+	private int studentId;
+	private String studentName;
+	private String studentCity;
+	
+}
